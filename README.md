@@ -10,3 +10,6 @@
 - Elenca la durata media dei film per categoria
 - Il film 'Academy Dinosaur' è disponibile nello Store 1?
 - Elenca i clienti che non hanno restituito un film e quali film non hanno restituito
+
+#Test Mongo
+https://mongoplayground.net/
